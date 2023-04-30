@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\bin\Debug\test_Git.exe.config
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\bin\Debug\test_Git.exe
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\bin\Debug\test_Git.pdb
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\obj\Debug\test_Git.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\obj\Debug\test_Git.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\obj\Debug\test_Git.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\obj\Debug\test_Git.exe
+C:\Users\Acer\Documents\Ярослав\Visual\Test Git\test_Git\obj\Debug\test_Git.pdb
